@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsetch",
+        "uuid": 199500,
+        "checksum": "a5b6t8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
